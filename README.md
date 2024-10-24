@@ -1,4 +1,6 @@
-## Hi there 👋
+:3 
+![github](https://github.com/user-attachments/assets/e4ba1b47-c47e-4190-b824-2a960d51bc7a)
+
 
 <!--
 **RooTinfinite/RooTinfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
